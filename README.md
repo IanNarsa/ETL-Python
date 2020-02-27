@@ -7,6 +7,9 @@ Untuk menjalan program aktifkan terlebih dahulu virtual environment yang telah a
 source ETL/bin/activate
 ```
 kemudian jalankan file etl-bmkg.py
+```python
+python3 etl-bmkg.py
+```
 
 Masukan wilayah yang akan diambil datanya, untuk nama wilayah bisa dilihat pada link BMKG yang tertera.
 
