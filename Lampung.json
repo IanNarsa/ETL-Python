@@ -1,0 +1,1922 @@
+[
+    {
+        "source": "BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)",
+        "id": "501373",
+        "latitude": "-5.42396",
+        "longitude": "105.25113",
+        "coordinate": "105.25113 -5.42396",
+        "kabupaten": "Bandar Lampung",
+        "propinsi": "Lampung",
+        "waktu": {
+            "timestamp": "20200227033930",
+            "year": "2020",
+            "month": "02",
+            "day": "27",
+            "hour": "03",
+            "minute": "39",
+            "second": "30"
+        },
+        "weather": [
+            {
+                "type": "hourly",
+                "h": "0",
+                "datetime": "202002270000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "6",
+                "datetime": "202002270600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "12",
+                "datetime": "202002271200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "18",
+                "datetime": "202002271800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "24",
+                "datetime": "202002280000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "30",
+                "datetime": "202002280600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "36",
+                "datetime": "202002281200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "42",
+                "datetime": "202002281800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "48",
+                "datetime": "202002290000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "54",
+                "datetime": "202002290600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "60",
+                "datetime": "202002291200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "66",
+                "datetime": "202002291800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            }
+        ]
+    },
+    {
+        "source": "BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)",
+        "id": "501374",
+        "latitude": "-4.57554",
+        "longitude": "104.64759",
+        "coordinate": "104.64759 -4.57554",
+        "kabupaten": "Blambangan Umpu",
+        "propinsi": "Lampung",
+        "waktu": {
+            "timestamp": "20200227033930",
+            "year": "2020",
+            "month": "02",
+            "day": "27",
+            "hour": "03",
+            "minute": "39",
+            "second": "30"
+        },
+        "weather": [
+            {
+                "type": "hourly",
+                "h": "0",
+                "datetime": "202002270000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "6",
+                "datetime": "202002270600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "12",
+                "datetime": "202002271200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "18",
+                "datetime": "202002271800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "24",
+                "datetime": "202002280000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "30",
+                "datetime": "202002280600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "36",
+                "datetime": "202002281200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "42",
+                "datetime": "202002281800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "48",
+                "datetime": "202002290000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "54",
+                "datetime": "202002290600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "60",
+                "datetime": "202002291200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "66",
+                "datetime": "202002291800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            }
+        ]
+    },
+    {
+        "source": "BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)",
+        "id": "5002236",
+        "latitude": "-5.503906",
+        "longitude": "105.136414",
+        "coordinate": "105.136414 -5.503906",
+        "kabupaten": "Gedong Tataan",
+        "propinsi": "Lampung",
+        "waktu": {
+            "timestamp": "20200227033930",
+            "year": "2020",
+            "month": "02",
+            "day": "27",
+            "hour": "03",
+            "minute": "39",
+            "second": "30"
+        },
+        "weather": [
+            {
+                "type": "hourly",
+                "h": "0",
+                "datetime": "202002270000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "6",
+                "datetime": "202002270600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "12",
+                "datetime": "202002271200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "18",
+                "datetime": "202002271800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "24",
+                "datetime": "202002280000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "30",
+                "datetime": "202002280600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "36",
+                "datetime": "202002281200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "42",
+                "datetime": "202002281800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "48",
+                "datetime": "202002290000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "54",
+                "datetime": "202002290600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "60",
+                "datetime": "202002291200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "66",
+                "datetime": "202002291800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            }
+        ]
+    },
+    {
+        "source": "BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)",
+        "id": "501375",
+        "latitude": "-4.929444",
+        "longitude": "105.221389",
+        "coordinate": "105.221389 -4.929444",
+        "kabupaten": "Gunung Sugih",
+        "propinsi": "Lampung",
+        "waktu": {
+            "timestamp": "20200227033930",
+            "year": "2020",
+            "month": "02",
+            "day": "27",
+            "hour": "03",
+            "minute": "39",
+            "second": "30"
+        },
+        "weather": [
+            {
+                "type": "hourly",
+                "h": "0",
+                "datetime": "202002270000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "6",
+                "datetime": "202002270600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "12",
+                "datetime": "202002271200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "18",
+                "datetime": "202002271800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "24",
+                "datetime": "202002280000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "30",
+                "datetime": "202002280600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "36",
+                "datetime": "202002281200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "42",
+                "datetime": "202002281800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "48",
+                "datetime": "202002290000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "54",
+                "datetime": "202002290600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "60",
+                "datetime": "202002291200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "66",
+                "datetime": "202002291800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            }
+        ]
+    },
+    {
+        "source": "BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)",
+        "id": "501376",
+        "latitude": "-5.7",
+        "longitude": "105.57",
+        "coordinate": "105.57 -5.7",
+        "kabupaten": "Kalianda",
+        "propinsi": "Lampung",
+        "waktu": {
+            "timestamp": "20200227033930",
+            "year": "2020",
+            "month": "02",
+            "day": "27",
+            "hour": "03",
+            "minute": "39",
+            "second": "30"
+        },
+        "weather": [
+            {
+                "type": "hourly",
+                "h": "0",
+                "datetime": "202002270000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "6",
+                "datetime": "202002270600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "12",
+                "datetime": "202002271200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "18",
+                "datetime": "202002271800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "24",
+                "datetime": "202002280000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "30",
+                "datetime": "202002280600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "36",
+                "datetime": "202002281200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "42",
+                "datetime": "202002281800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "48",
+                "datetime": "202002290000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "54",
+                "datetime": "202002290600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "60",
+                "datetime": "202002291200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "66",
+                "datetime": "202002291800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            }
+        ]
+    },
+    {
+        "source": "BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)",
+        "id": "501377",
+        "latitude": "-5.487502",
+        "longitude": "104.617310",
+        "coordinate": "104.617310 -5.487502",
+        "kabupaten": "Kota Agung",
+        "propinsi": "Lampung",
+        "waktu": {
+            "timestamp": "20200227033930",
+            "year": "2020",
+            "month": "02",
+            "day": "27",
+            "hour": "03",
+            "minute": "39",
+            "second": "30"
+        },
+        "weather": [
+            {
+                "type": "hourly",
+                "h": "0",
+                "datetime": "202002270000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "6",
+                "datetime": "202002270600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "12",
+                "datetime": "202002271200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "18",
+                "datetime": "202002271800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "24",
+                "datetime": "202002280000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "30",
+                "datetime": "202002280600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "36",
+                "datetime": "202002281200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "42",
+                "datetime": "202002281800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "48",
+                "datetime": "202002290000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "54",
+                "datetime": "202002290600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "60",
+                "datetime": "202002291200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "66",
+                "datetime": "202002291800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            }
+        ]
+    },
+    {
+        "source": "BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)",
+        "id": "501378",
+        "latitude": "-4.816666668",
+        "longitude": "104.9",
+        "coordinate": "104.9 -4.816666668",
+        "kabupaten": "Kotabumi",
+        "propinsi": "Lampung",
+        "waktu": {
+            "timestamp": "20200227033930",
+            "year": "2020",
+            "month": "02",
+            "day": "27",
+            "hour": "03",
+            "minute": "39",
+            "second": "30"
+        },
+        "weather": [
+            {
+                "type": "hourly",
+                "h": "0",
+                "datetime": "202002270000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "6",
+                "datetime": "202002270600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "12",
+                "datetime": "202002271200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "18",
+                "datetime": "202002271800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "24",
+                "datetime": "202002280000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "30",
+                "datetime": "202002280600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "36",
+                "datetime": "202002281200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "42",
+                "datetime": "202002281800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "48",
+                "datetime": "202002290000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "54",
+                "datetime": "202002290600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "60",
+                "datetime": "202002291200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "66",
+                "datetime": "202002291800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            }
+        ]
+    },
+    {
+        "source": "BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)",
+        "id": "5002237",
+        "latitude": "-5.296092",
+        "longitude": "104.111938",
+        "coordinate": "104.111938 -5.296092",
+        "kabupaten": "Krui",
+        "propinsi": "Lampung",
+        "waktu": {
+            "timestamp": "20200227033930",
+            "year": "2020",
+            "month": "02",
+            "day": "27",
+            "hour": "03",
+            "minute": "39",
+            "second": "30"
+        },
+        "weather": [
+            {
+                "type": "hourly",
+                "h": "0",
+                "datetime": "202002270000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "6",
+                "datetime": "202002270600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "12",
+                "datetime": "202002271200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "18",
+                "datetime": "202002271800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "24",
+                "datetime": "202002280000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "30",
+                "datetime": "202002280600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "36",
+                "datetime": "202002281200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "42",
+                "datetime": "202002281800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "48",
+                "datetime": "202002290000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "54",
+                "datetime": "202002290600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "60",
+                "datetime": "202002291200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "66",
+                "datetime": "202002291800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            }
+        ]
+    },
+    {
+        "source": "BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)",
+        "id": "501379",
+        "latitude": "-5.02",
+        "longitude": "104.07",
+        "coordinate": "104.07 -5.02",
+        "kabupaten": "Liwa",
+        "propinsi": "Lampung",
+        "waktu": {
+            "timestamp": "20200227033930",
+            "year": "2020",
+            "month": "02",
+            "day": "27",
+            "hour": "03",
+            "minute": "39",
+            "second": "30"
+        },
+        "weather": [
+            {
+                "type": "hourly",
+                "h": "0",
+                "datetime": "202002270000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "6",
+                "datetime": "202002270600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "12",
+                "datetime": "202002271200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "18",
+                "datetime": "202002271800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "24",
+                "datetime": "202002280000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "30",
+                "datetime": "202002280600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "36",
+                "datetime": "202002281200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "42",
+                "datetime": "202002281800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "48",
+                "datetime": "202002290000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "54",
+                "datetime": "202002290600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "60",
+                "datetime": "202002291200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "66",
+                "datetime": "202002291800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            }
+        ]
+    },
+    {
+        "source": "BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)",
+        "id": "501380",
+        "latitude": "-4.500000001",
+        "longitude": "105.25",
+        "coordinate": "105.25 -4.500000001",
+        "kabupaten": "Menggala",
+        "propinsi": "Lampung",
+        "waktu": {
+            "timestamp": "20200227033930",
+            "year": "2020",
+            "month": "02",
+            "day": "27",
+            "hour": "03",
+            "minute": "39",
+            "second": "30"
+        },
+        "weather": [
+            {
+                "type": "hourly",
+                "h": "0",
+                "datetime": "202002270000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "6",
+                "datetime": "202002270600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "12",
+                "datetime": "202002271200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "18",
+                "datetime": "202002271800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "24",
+                "datetime": "202002280000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "30",
+                "datetime": "202002280600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "36",
+                "datetime": "202002281200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "42",
+                "datetime": "202002281800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "48",
+                "datetime": "202002290000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "54",
+                "datetime": "202002290600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "60",
+                "datetime": "202002291200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "66",
+                "datetime": "202002291800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            }
+        ]
+    },
+    {
+        "source": "BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)",
+        "id": "501381",
+        "latitude": "-5.1",
+        "longitude": "105.33",
+        "coordinate": "105.33 -5.1",
+        "kabupaten": "Metro",
+        "propinsi": "Lampung",
+        "waktu": {
+            "timestamp": "20200227033930",
+            "year": "2020",
+            "month": "02",
+            "day": "27",
+            "hour": "03",
+            "minute": "39",
+            "second": "30"
+        },
+        "weather": [
+            {
+                "type": "hourly",
+                "h": "0",
+                "datetime": "202002270000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "6",
+                "datetime": "202002270600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "12",
+                "datetime": "202002271200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "18",
+                "datetime": "202002271800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "24",
+                "datetime": "202002280000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "30",
+                "datetime": "202002280600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "36",
+                "datetime": "202002281200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "42",
+                "datetime": "202002281800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "48",
+                "datetime": "202002290000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "54",
+                "datetime": "202002290600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "60",
+                "datetime": "202002291200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "66",
+                "datetime": "202002291800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            }
+        ]
+    },
+    {
+        "source": "BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)",
+        "id": "5002238",
+        "latitude": "-4.412137",
+        "longitude": "105.054016",
+        "coordinate": "105.054016 -4.412137",
+        "kabupaten": "Panaragan Jaya",
+        "propinsi": "Lampung",
+        "waktu": {
+            "timestamp": "20200227033930",
+            "year": "2020",
+            "month": "02",
+            "day": "27",
+            "hour": "03",
+            "minute": "39",
+            "second": "30"
+        },
+        "weather": [
+            {
+                "type": "hourly",
+                "h": "0",
+                "datetime": "202002270000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "6",
+                "datetime": "202002270600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "12",
+                "datetime": "202002271200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "18",
+                "datetime": "202002271800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "24",
+                "datetime": "202002280000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "30",
+                "datetime": "202002280600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "36",
+                "datetime": "202002281200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "42",
+                "datetime": "202002281800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "48",
+                "datetime": "202002290000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "54",
+                "datetime": "202002290600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "60",
+                "datetime": "202002291200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "66",
+                "datetime": "202002291800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            }
+        ]
+    },
+    {
+        "source": "BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)",
+        "id": "5013669",
+        "latitude": "-5.21",
+        "longitude": "104.58",
+        "coordinate": "104.58 -5.21",
+        "kabupaten": "Pringsewu",
+        "propinsi": "Lampung",
+        "waktu": {
+            "timestamp": "20200227033930",
+            "year": "2020",
+            "month": "02",
+            "day": "27",
+            "hour": "03",
+            "minute": "39",
+            "second": "30"
+        },
+        "weather": [
+            {
+                "type": "hourly",
+                "h": "0",
+                "datetime": "202002270000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "6",
+                "datetime": "202002270600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "12",
+                "datetime": "202002271200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "18",
+                "datetime": "202002271800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "24",
+                "datetime": "202002280000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "30",
+                "datetime": "202002280600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "36",
+                "datetime": "202002281200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "42",
+                "datetime": "202002281800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "48",
+                "datetime": "202002290000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "54",
+                "datetime": "202002290600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "60",
+                "datetime": "202002291200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "66",
+                "datetime": "202002291800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            }
+        ]
+    },
+    {
+        "source": "BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)",
+        "id": "5002234",
+        "latitude": "-5.066322",
+        "longitude": "105.501709",
+        "coordinate": "105.501709 -5.066322",
+        "kabupaten": "Sukadana",
+        "propinsi": "Lampung",
+        "waktu": {
+            "timestamp": "20200227033930",
+            "year": "2020",
+            "month": "02",
+            "day": "27",
+            "hour": "03",
+            "minute": "39",
+            "second": "30"
+        },
+        "weather": [
+            {
+                "type": "hourly",
+                "h": "0",
+                "datetime": "202002270000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "6",
+                "datetime": "202002270600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "12",
+                "datetime": "202002271200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "18",
+                "datetime": "202002271800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "24",
+                "datetime": "202002280000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "30",
+                "datetime": "202002280600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "36",
+                "datetime": "202002281200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "42",
+                "datetime": "202002281800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "48",
+                "datetime": "202002290000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "54",
+                "datetime": "202002290600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "60",
+                "datetime": "202002291200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "66",
+                "datetime": "202002291800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            }
+        ]
+    },
+    {
+        "source": "BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)",
+        "id": "5002239",
+        "latitude": "-3.984821",
+        "longitude": "105.309448",
+        "coordinate": "105.309448 -3.984821",
+        "kabupaten": "Wiralaga Mulya",
+        "propinsi": "Lampung",
+        "waktu": {
+            "timestamp": "20200227033930",
+            "year": "2020",
+            "month": "02",
+            "day": "27",
+            "hour": "03",
+            "minute": "39",
+            "second": "30"
+        },
+        "weather": [
+            {
+                "type": "hourly",
+                "h": "0",
+                "datetime": "202002270000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "6",
+                "datetime": "202002270600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "12",
+                "datetime": "202002271200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "18",
+                "datetime": "202002271800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "24",
+                "datetime": "202002280000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "30",
+                "datetime": "202002280600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "36",
+                "datetime": "202002281200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "42",
+                "datetime": "202002281800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "48",
+                "datetime": "202002290000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "54",
+                "datetime": "202002290600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "60",
+                "datetime": "202002291200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Hujan Ringan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "66",
+                "datetime": "202002291800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            }
+        ]
+    }
+]
