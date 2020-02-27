@@ -11,7 +11,42 @@ kemudian jalankan file etl-bmkg.py
 python3 etl-bmkg.py
 ```
 
-Masukan wilayah yang akan diambil datanya, untuk nama wilayah bisa dilihat pada link BMKG yang tertera.
+Masukan wilayah yang akan diambil datanya, untuk nama wilayah bisa dilihat pada daftar berikut.
+
+- Aceh
+- Bali
+- BangkaBelitung 
+- Banten
+- Bengkulu
+- DIYogyakarta
+- DKIJakarta 
+- Gorontalo
+- Jambi
+- JawaBarat
+- JawaTengah
+- JawaTimur	 
+- KalimantanBarat
+- KalimantanSelatan
+- KalimantanTengah
+- KalimantanTimur
+- KalimantanUtara
+- KepulauanRiau
+- Lampung
+- Maluku
+- MalukuUtara
+- NusaTenggaraBarat
+- NusaTenggaraTimur
+- Papua
+- PapuaBarat
+- Riau
+- SulawesiBarat
+- SulawesiSelatan
+- SulawesiTengah
+- SulawesiTenggara
+- SulawesiUtara
+- SumateraBarat
+- SumateraSelatan
+- SumateraUtara
 
 Pada aplikasi ini data yang digunakan berasal dari Data Prakiraan Cuaca Terbuka BMKG yang bisa diakses melalui link di bawah berikut :
 
@@ -56,3 +91,5 @@ Hasil transform
 ```
 
 Setelah ditransform kemudian data disimpan dalam file json dengan nama sesuai dengan nama propinsi yang dicari.
+
+> Harap mencantumkan sumber data yaitu **BMKG (Badan Meteorologi, Klimatologi, dan Geofisika) dalam setiap penggunaan aplikasi**
