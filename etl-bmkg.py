@@ -24,7 +24,6 @@ def scrape_bmkg(wilayah):
     
 def extract(x):
     try:
-        #yield input_data()
         print("extract ",x)
         yield scrape_bmkg(x)[0]
     except :
@@ -35,7 +34,6 @@ def transform(dt):
     try:
         dCuaca = kamus_cuaca()
         _data = []
-        db = {}    
         for i in dt['area']:
             x =  i['domain']
             weather = []
