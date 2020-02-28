@@ -62,7 +62,7 @@ def transform(dt):
             area.update(temp)
             _data.append(area)
         
-        return _data
+        yield _data
     except :
         None
     
