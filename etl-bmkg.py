@@ -14,6 +14,7 @@ def scrape_bmkg(wilayah):
         url = 'http://data.bmkg.go.id/datamkg/MEWS/DigitalForecast/DigitalForecast-'+wilayah+'.xml'
         body = req.get(url)
         parse_data = xmltodict.parse(body.text,attr_prefix='')
+        print(parse_data)
         hasil = json.dumps(parse_data)
         final = json.loads(hasil)
         dt = final['data']['forecast']

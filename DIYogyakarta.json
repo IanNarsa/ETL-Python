@@ -8,55 +8,55 @@
         "kabupaten": "Bantul",
         "propinsi": "DI Yogyakarta",
         "waktu": {
-            "timestamp": "20200228030935",
+            "timestamp": "20200909034804",
             "year": "2020",
-            "month": "02",
-            "day": "28",
+            "month": "09",
+            "day": "09",
             "hour": "03",
-            "minute": "09",
-            "second": "35"
+            "minute": "48",
+            "second": "04"
         },
         "weather": [
             {
                 "type": "hourly",
                 "h": "0",
-                "datetime": "202002280000",
+                "datetime": "202009090000",
                 "value": {
                     "unit": "icon",
-                    "#text": "Hujan Ringan"
+                    "#text": "Cerah Berawan"
                 }
             },
             {
                 "type": "hourly",
                 "h": "6",
-                "datetime": "202002280600",
+                "datetime": "202009090600",
                 "value": {
                     "unit": "icon",
-                    "#text": "Berawan Tebal"
+                    "#text": "Cerah Berawan"
                 }
             },
             {
                 "type": "hourly",
                 "h": "12",
-                "datetime": "202002281200",
+                "datetime": "202009091200",
                 "value": {
                     "unit": "icon",
-                    "#text": "Hujan Ringan"
+                    "#text": "Cerah Berawan"
                 }
             },
             {
                 "type": "hourly",
                 "h": "18",
-                "datetime": "202002281800",
+                "datetime": "202009091800",
                 "value": {
                     "unit": "icon",
-                    "#text": "Hujan Ringan"
+                    "#text": "Berawan"
                 }
             },
             {
                 "type": "hourly",
                 "h": "24",
-                "datetime": "202002290000",
+                "datetime": "202009100000",
                 "value": {
                     "unit": "icon",
                     "#text": "Berawan"
@@ -65,34 +65,7 @@
             {
                 "type": "hourly",
                 "h": "30",
-                "datetime": "202002290600",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Berawan"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "36",
-                "datetime": "202002291200",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Hujan Ringan"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "42",
-                "datetime": "202002291800",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Hujan Ringan"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "48",
-                "datetime": "202003010000",
+                "datetime": "202009100600",
                 "value": {
                     "unit": "icon",
                     "#text": "Cerah Berawan"
@@ -100,8 +73,17 @@
             },
             {
                 "type": "hourly",
-                "h": "54",
-                "datetime": "202003010600",
+                "h": "36",
+                "datetime": "202009101200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "42",
+                "datetime": "202009101800",
                 "value": {
                     "unit": "icon",
                     "#text": "Berawan"
@@ -109,17 +91,35 @@
             },
             {
                 "type": "hourly",
-                "h": "60",
-                "datetime": "202003011200",
+                "h": "48",
+                "datetime": "202009110000",
                 "value": {
                     "unit": "icon",
-                    "#text": "Hujan Ringan"
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "54",
+                "datetime": "202009110600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "60",
+                "datetime": "202009111200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
                 }
             },
             {
                 "type": "hourly",
                 "h": "66",
-                "datetime": "202003011800",
+                "datetime": "202009111800",
                 "value": {
                     "unit": "icon",
                     "#text": "Berawan"
@@ -136,91 +136,19 @@
         "kabupaten": "Sleman",
         "propinsi": "DI Yogyakarta",
         "waktu": {
-            "timestamp": "20200228030935",
+            "timestamp": "20200909034804",
             "year": "2020",
-            "month": "02",
-            "day": "28",
+            "month": "09",
+            "day": "09",
             "hour": "03",
-            "minute": "09",
-            "second": "35"
+            "minute": "48",
+            "second": "04"
         },
         "weather": [
             {
                 "type": "hourly",
                 "h": "0",
-                "datetime": "202002280000",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Berawan Tebal"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "6",
-                "datetime": "202002280600",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Hujan Sedang"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "12",
-                "datetime": "202002281200",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Hujan Ringan"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "18",
-                "datetime": "202002281800",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Berawan Tebal"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "24",
-                "datetime": "202002290000",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Berawan Tebal"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "30",
-                "datetime": "202002290600",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Hujan Petir"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "36",
-                "datetime": "202002291200",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Hujan Ringan"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "42",
-                "datetime": "202002291800",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Berawan Tebal"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "48",
-                "datetime": "202003010000",
+                "datetime": "202009090000",
                 "value": {
                     "unit": "icon",
                     "#text": "Cerah Berawan"
@@ -228,26 +156,98 @@
             },
             {
                 "type": "hourly",
-                "h": "54",
-                "datetime": "202003010600",
+                "h": "6",
+                "datetime": "202009090600",
                 "value": {
                     "unit": "icon",
-                    "#text": "Hujan Petir"
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "12",
+                "datetime": "202009091200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "18",
+                "datetime": "202009091800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "24",
+                "datetime": "202009100000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "30",
+                "datetime": "202009100600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "36",
+                "datetime": "202009101200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "42",
+                "datetime": "202009101800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "48",
+                "datetime": "202009110000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "54",
+                "datetime": "202009110600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
                 }
             },
             {
                 "type": "hourly",
                 "h": "60",
-                "datetime": "202003011200",
+                "datetime": "202009111200",
                 "value": {
                     "unit": "icon",
-                    "#text": "Hujan Ringan"
+                    "#text": "Berawan"
                 }
             },
             {
                 "type": "hourly",
                 "h": "66",
-                "datetime": "202003011800",
+                "datetime": "202009111800",
                 "value": {
                     "unit": "icon",
                     "#text": "Berawan"
@@ -264,55 +264,55 @@
         "kabupaten": "Wates",
         "propinsi": "DI Yogyakarta",
         "waktu": {
-            "timestamp": "20200228030935",
+            "timestamp": "20200909034804",
             "year": "2020",
-            "month": "02",
-            "day": "28",
+            "month": "09",
+            "day": "09",
             "hour": "03",
-            "minute": "09",
-            "second": "35"
+            "minute": "48",
+            "second": "04"
         },
         "weather": [
             {
                 "type": "hourly",
                 "h": "0",
-                "datetime": "202002280000",
+                "datetime": "202009090000",
                 "value": {
                     "unit": "icon",
-                    "#text": "Berawan Tebal"
+                    "#text": "Cerah Berawan"
                 }
             },
             {
                 "type": "hourly",
                 "h": "6",
-                "datetime": "202002280600",
+                "datetime": "202009090600",
                 "value": {
                     "unit": "icon",
-                    "#text": "Berawan Tebal"
+                    "#text": "Cerah Berawan"
                 }
             },
             {
                 "type": "hourly",
                 "h": "12",
-                "datetime": "202002281200",
+                "datetime": "202009091200",
                 "value": {
                     "unit": "icon",
-                    "#text": "Hujan Ringan"
+                    "#text": "Cerah Berawan"
                 }
             },
             {
                 "type": "hourly",
                 "h": "18",
-                "datetime": "202002281800",
+                "datetime": "202009091800",
                 "value": {
                     "unit": "icon",
-                    "#text": "Hujan Ringan"
+                    "#text": "Berawan"
                 }
             },
             {
                 "type": "hourly",
                 "h": "24",
-                "datetime": "202002290000",
+                "datetime": "202009100000",
                 "value": {
                     "unit": "icon",
                     "#text": "Berawan"
@@ -321,34 +321,7 @@
             {
                 "type": "hourly",
                 "h": "30",
-                "datetime": "202002290600",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Berawan"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "36",
-                "datetime": "202002291200",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Hujan Ringan"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "42",
-                "datetime": "202002291800",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Berawan Tebal"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "48",
-                "datetime": "202003010000",
+                "datetime": "202009100600",
                 "value": {
                     "unit": "icon",
                     "#text": "Cerah Berawan"
@@ -356,8 +329,17 @@
             },
             {
                 "type": "hourly",
-                "h": "54",
-                "datetime": "202003010600",
+                "h": "36",
+                "datetime": "202009101200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "42",
+                "datetime": "202009101800",
                 "value": {
                     "unit": "icon",
                     "#text": "Berawan"
@@ -365,17 +347,35 @@
             },
             {
                 "type": "hourly",
-                "h": "60",
-                "datetime": "202003011200",
+                "h": "48",
+                "datetime": "202009110000",
                 "value": {
                     "unit": "icon",
-                    "#text": "Hujan Ringan"
+                    "#text": "Berawan Tebal"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "54",
+                "datetime": "202009110600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "60",
+                "datetime": "202009111200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
                 }
             },
             {
                 "type": "hourly",
                 "h": "66",
-                "datetime": "202003011800",
+                "datetime": "202009111800",
                 "value": {
                     "unit": "icon",
                     "#text": "Berawan"
@@ -392,28 +392,28 @@
         "kabupaten": "Gunung Kidul",
         "propinsi": "DI Yogyakarta",
         "waktu": {
-            "timestamp": "20200228030935",
+            "timestamp": "20200909034804",
             "year": "2020",
-            "month": "02",
-            "day": "28",
+            "month": "09",
+            "day": "09",
             "hour": "03",
-            "minute": "09",
-            "second": "35"
+            "minute": "48",
+            "second": "04"
         },
         "weather": [
             {
                 "type": "hourly",
                 "h": "0",
-                "datetime": "202002280000",
+                "datetime": "202009090000",
                 "value": {
                     "unit": "icon",
-                    "#text": "Berawan Tebal"
+                    "#text": "Cerah"
                 }
             },
             {
                 "type": "hourly",
                 "h": "6",
-                "datetime": "202002280600",
+                "datetime": "202009090600",
                 "value": {
                     "unit": "icon",
                     "#text": "Cerah Berawan"
@@ -422,25 +422,16 @@
             {
                 "type": "hourly",
                 "h": "12",
-                "datetime": "202002281200",
+                "datetime": "202009091200",
                 "value": {
                     "unit": "icon",
-                    "#text": "Berawan Tebal"
+                    "#text": "Cerah Berawan"
                 }
             },
             {
                 "type": "hourly",
                 "h": "18",
-                "datetime": "202002281800",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Hujan Ringan"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "24",
-                "datetime": "202002290000",
+                "datetime": "202009091800",
                 "value": {
                     "unit": "icon",
                     "#text": "Berawan"
@@ -448,8 +439,17 @@
             },
             {
                 "type": "hourly",
+                "h": "24",
+                "datetime": "202009100000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
                 "h": "30",
-                "datetime": "202002290600",
+                "datetime": "202009100600",
                 "value": {
                     "unit": "icon",
                     "#text": "Cerah Berawan"
@@ -458,25 +458,25 @@
             {
                 "type": "hourly",
                 "h": "36",
-                "datetime": "202002291200",
+                "datetime": "202009101200",
                 "value": {
                     "unit": "icon",
-                    "#text": "Berawan Tebal"
+                    "#text": "Cerah Berawan"
                 }
             },
             {
                 "type": "hourly",
                 "h": "42",
-                "datetime": "202002291800",
+                "datetime": "202009101800",
                 "value": {
                     "unit": "icon",
-                    "#text": "Hujan Ringan"
+                    "#text": "Berawan"
                 }
             },
             {
                 "type": "hourly",
                 "h": "48",
-                "datetime": "202003010000",
+                "datetime": "202009110000",
                 "value": {
                     "unit": "icon",
                     "#text": "Cerah Berawan"
@@ -485,7 +485,7 @@
             {
                 "type": "hourly",
                 "h": "54",
-                "datetime": "202003010600",
+                "datetime": "202009110600",
                 "value": {
                     "unit": "icon",
                     "#text": "Cerah Berawan"
@@ -494,16 +494,16 @@
             {
                 "type": "hourly",
                 "h": "60",
-                "datetime": "202003011200",
+                "datetime": "202009111200",
                 "value": {
                     "unit": "icon",
-                    "#text": "Hujan Ringan"
+                    "#text": "Cerah Berawan"
                 }
             },
             {
                 "type": "hourly",
                 "h": "66",
-                "datetime": "202003011800",
+                "datetime": "202009111800",
                 "value": {
                     "unit": "icon",
                     "#text": "Berawan"
@@ -520,91 +520,19 @@
         "kabupaten": "Yogyakarta",
         "propinsi": "DI Yogyakarta",
         "waktu": {
-            "timestamp": "20200228030935",
+            "timestamp": "20200909034804",
             "year": "2020",
-            "month": "02",
-            "day": "28",
+            "month": "09",
+            "day": "09",
             "hour": "03",
-            "minute": "09",
-            "second": "35"
+            "minute": "48",
+            "second": "04"
         },
         "weather": [
             {
                 "type": "hourly",
                 "h": "0",
-                "datetime": "202002280000",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Hujan Ringan"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "6",
-                "datetime": "202002280600",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Hujan Ringan"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "12",
-                "datetime": "202002281200",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Hujan Ringan"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "18",
-                "datetime": "202002281800",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Berawan Tebal"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "24",
-                "datetime": "202002290000",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Berawan"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "30",
-                "datetime": "202002290600",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Hujan Ringan"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "36",
-                "datetime": "202002291200",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Hujan Ringan"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "42",
-                "datetime": "202002291800",
-                "value": {
-                    "unit": "icon",
-                    "#text": "Berawan Tebal"
-                }
-            },
-            {
-                "type": "hourly",
-                "h": "48",
-                "datetime": "202003010000",
+                "datetime": "202009090000",
                 "value": {
                     "unit": "icon",
                     "#text": "Cerah Berawan"
@@ -612,26 +540,98 @@
             },
             {
                 "type": "hourly",
-                "h": "54",
-                "datetime": "202003010600",
+                "h": "6",
+                "datetime": "202009090600",
                 "value": {
                     "unit": "icon",
-                    "#text": "Hujan Sedang"
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "12",
+                "datetime": "202009091200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "18",
+                "datetime": "202009091800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "24",
+                "datetime": "202009100000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "30",
+                "datetime": "202009100600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "36",
+                "datetime": "202009101200",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "42",
+                "datetime": "202009101800",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "48",
+                "datetime": "202009110000",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Berawan"
+                }
+            },
+            {
+                "type": "hourly",
+                "h": "54",
+                "datetime": "202009110600",
+                "value": {
+                    "unit": "icon",
+                    "#text": "Cerah Berawan"
                 }
             },
             {
                 "type": "hourly",
                 "h": "60",
-                "datetime": "202003011200",
+                "datetime": "202009111200",
                 "value": {
                     "unit": "icon",
-                    "#text": "Hujan Ringan"
+                    "#text": "Berawan"
                 }
             },
             {
                 "type": "hourly",
                 "h": "66",
-                "datetime": "202003011800",
+                "datetime": "202009111800",
                 "value": {
                     "unit": "icon",
                     "#text": "Berawan"
