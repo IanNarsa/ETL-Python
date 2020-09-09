@@ -2,9 +2,9 @@
 
 ## Extract Transform Load With Bonobo Python
 
-Untuk menjalan program aktifkan terlebih dahulu virtual environment yang telah ada dengan perintah
+Untuk menjalankan program install terlebih dahulu lib pada requierment ada dengan perintah
 ```bash
-source ETL/bin/activate
+pip3 install -r requirements.txt
 ```
 kemudian jalankan file etl-bmkg.py
 ```python
